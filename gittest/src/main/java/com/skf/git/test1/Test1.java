@@ -16,6 +16,7 @@ public class Test1 {
         System.out.println("测试merge");
 
         System.out.println("haha");
+        System.out.println("haha");
 
     }
 }
