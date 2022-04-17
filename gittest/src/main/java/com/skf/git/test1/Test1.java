@@ -13,8 +13,9 @@ public class Test1 {
 
         System.out.println("fix bug");
 
-        System.out.println("测试merge1");
+        System.out.println("测试merge");
 
+        System.out.println("haha");
 
     }
 }
