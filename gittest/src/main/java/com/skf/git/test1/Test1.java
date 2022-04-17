@@ -9,7 +9,7 @@ package com.skf.git.test1;
 public class Test1 {
 
     public static void main(String[] args) {
-        System.out.println("哈哈，无敌，醉了");
+        System.out.println("哈哈，无敌，醉了，无语");
 
     }
 }
