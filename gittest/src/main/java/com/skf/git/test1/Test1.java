@@ -12,5 +12,7 @@ public class Test1 {
         System.out.println("哈哈，无敌，醉了，无语");
 
         System.out.println("fix bug");
+
+        System.out.println("测试merge");
     }
 }
